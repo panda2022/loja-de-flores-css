@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5; /* Fundo suave */
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-links {
+    display: none;
+    /* ... outros estilos do menu */
+  }
+  
+  .nav-toggle {
+    /* ... estilos do botão */
+  }
+  
+  section {
+    padding: 40px;
+  }
+  
+  h1, h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  .produto {
+    border: 1px solid #f8e67f;
+    padding: 20px;
+    text-align: center;
+    background-color: #fcf082; /* Fundo branco para os produtos */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .produto img {
+    max-width: 100%;
+  }
+  
+  /* Cores vibrantes para as seções */
+  #produtos {
+    background-color: #f5c541; /* Fundo levemente mais escuro para a seção de produtos */
+  }
+  
+  #valores {
+    background-color: #fdf253; /* Amarelo claro */
+  }
+  
+  #sobre {
+    background-color: #ffefd5; /* Amarelo claro */
+  }
